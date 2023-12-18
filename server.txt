@@ -1,0 +1,8 @@
+serverga kirish
+ssh username@server_ip
+password
+--------------------
+kerakli path ga o`tib olamiz misol uchun
+cd /var/back666/Soliq.uz
+Virtual envoirment activatsiya qildik
+source venv/bin/activate
